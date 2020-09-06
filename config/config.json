@@ -1,0 +1,14 @@
+{
+    "base": {
+        "activity": "Server Name",
+        "type": "WATCHING",
+        "token": "Bot Token",
+        "streamlink": "",
+        "prefix": ">",
+        "ip": "SERVERIP0",
+        "id": "CHANNEL-ID",
+        "memcountID": "MEMBERCOUNT-CHANNEL-ID",
+        "acceptChannel": "ACCEPT-CHANNEL-ID",
+        "welcomeChannel": "CHANID"
+    }
+}
